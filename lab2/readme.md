@@ -1,4 +1,4 @@
-README – Công nghệ sử dụng
+Công nghệ sử dụng
 Trong bài này mình thử nghiệm một số thao tác xử lý ảnh cơ bản bằng Python các thư viện mình dùng gồm
 OpenCV cv2 dùng để đọc ảnh, đổi màu, flip, crop, rotate, vẽ hình, ghi chữ
 NumPy: hỗ trợ làm việc với ma trận ảnh
